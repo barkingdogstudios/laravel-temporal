@@ -1,5 +1,5 @@
 {
-    "name": "gazugafan/laravel-temporal",
+    "name": "barkingdogstudios/laravel-temporal",
     "description": "Temporal models and versioning for Laravel 5",
     "keywords": [
         "laravel",
